@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/006/431/810/non_2x/seamless-dog-pattern-with-paw-prints-cat-foots-texture-pattern-with-doggy-pawprints-dog-texture-hand-drawn-illustration-in-doodle-style-on-white-background-vector.jpg");
+    background-repeat: repeat;
+}
+#puppy-pic {
+    width: 250px;
+}
+#puppy-name {
+    font-size: 30px;
+    text-decoration: underline;
+    background-color: blanchedalmond;
+    padding: 1%;
+}
+#puppy-breed {
+    font-size: 24px;
+    padding: 1%;
+    border: 3px solid blanchedalmond;
+    background-color: blanchedalmond;
+
+}
+#puppy-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 4px solid black;
+}
+#navbar-container {
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 2%;
+    color: black;
+    font-size: 32px;
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    background-image: radial-gradient(black, black, blanchedalmond);
+    color: blanchedalmond;
+    font-size: 72px;
+    padding: 2%;
+}
+h2 {
+    background-image: radial-gradient(blanchedalmond, blanchedalmond, black);
+    text-align: center;
+    padding: 1%;
+    font-size: 48px;
+}
